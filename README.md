@@ -16,7 +16,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 -Create and deploy custom interactive dashboards.
 
-* Was able to complete Leaflet-Part-1 
+# Was able to complete Leaflet-Part-1 
 
 # Resources
 
